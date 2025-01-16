@@ -21,11 +21,11 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Audit%20Logs/Audit-Logs.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Audit-Logs/refs/heads/main/qwiklab_explorers_audit_logs.sh
 
-sudo chmod +x Audit-Logs.sh
+sudo chmod +x qwiklab_explorers_audit_logs.sh
 
-./Audit-Logs.sh
+./qwiklab_explorers_audit_logs.sh
 ```
 
 1. Go to `Logs Explorer` from [here](https://console.cloud.google.com/logs/query)
